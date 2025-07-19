@@ -1,4 +1,4 @@
-<img width="414" height="111" alt="image" src="https://github.com/user-attachments/assets/de2b6ef2-96f6-45a0-a0f2-2375555303d8" /># Counter-Strike-Source-External-Radar
+# Counter-Strike-Source-External-Radar
 
 Simple radar for Counter Strike Source (Steam) make in C++
 

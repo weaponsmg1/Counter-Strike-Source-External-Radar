@@ -9,6 +9,7 @@ Don't use on main account
 # How to use?
 
 Choose display mode Windowed (No Border) or Windowed
+
 Open cheat
 
 <img width="414" height="111" alt="image" src="https://github.com/user-attachments/assets/c1fab1fd-db0b-4eba-bb07-b2f562cf3aeb" />

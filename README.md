@@ -1,6 +1,6 @@
 # Counter-Strike-Source-External-Radar
 
-Simple radar for Counter Strike Source (Steam) make in C++
+Simple radar for Counter Strike Source (Steam) made in C++
 
 VAC Status:Unknown
 
